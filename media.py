@@ -4,9 +4,8 @@ import fresh_tomatoes
 import requests
 #used for formatting response into json
 import json
+#import unicode library to format json response being unicode
 import unicodedata
-
-
 
 key = 'themoviedb api key'
 def movieInfo(id):
@@ -40,7 +39,6 @@ data = movieInfo(8467)
 dumber = movieClass.Movie(data[0], data[1], "https://image.tmdb.org/t/p/w500" + data[2], "https://www.youtube.com/watch?v=MSu25pQ4iFw", data[3])
 
 movies = [theMatrix, dumbo, swordStone, terminator, theIsland, dumber]
-# print str(theMatrix.storyline)
 
 #Send array of movies to fresh_tomatoes
 fresh_tomatoes.open_movies_page(movies)
