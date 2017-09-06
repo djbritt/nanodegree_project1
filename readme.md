@@ -1,4 +1,4 @@
-# Project 1 - Movie Database - Full Stack Nanodegree :vhs:
+# Project 1 - Movie Database - Full Stack Nanodegree :movie_camera:
 ## By Daniel Britt
 
 # Purpose
