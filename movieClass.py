@@ -1,7 +1,7 @@
 """
 Movie Database
 ~~~~~~~~~~
-*fullstack_moviedb* is a simple tool that grabs movie information from "The Movie Databse" located themoviedb.org.
+*fullstack_moviedb* is a simple tool that grabs movie information from "The Movie Database" located themoviedb.org.
 This tool then creates an array of the information, spits it into a file that creates a visual web experience of the information.
 """
 
