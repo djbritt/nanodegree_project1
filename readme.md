@@ -7,3 +7,7 @@ This tool then creates an array of the information, spits it into a file that cr
 
 # Technologies
 This project uses Python, libraries such as requests and JSON. It also uses HTML5, and CSS3.
+
+# Running
+To run this program, download these files, cd into the directory, type
+$ python media.py
