@@ -10,4 +10,5 @@ This project uses Python, libraries such as requests and JSON. It also uses HTML
 
 # Running
 To run this program, download these files, cd into the directory, type
+
 $ python media.py
